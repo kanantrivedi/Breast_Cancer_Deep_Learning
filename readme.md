@@ -1,6 +1,6 @@
 # Breast Cancer Classifier (Deep Learning) 🔬
 
-[![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/Breast-Cancer-Deep-Learning/blob/master/LICENSE.txt)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
+
 
 This code helps you classify malignant and benign tumors using Deep Learning.
 
